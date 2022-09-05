@@ -1,0 +1,17 @@
+#false in X because of OBC in X
+#true in Y because just 2-siters in Y, otherwise OBC just overwrites the same connections with zeros 
+
+Xsite=60
+Ysite=60
+N_Orbs=3
+
+Hopping=1.0
+
+lambda_RSOC=0.3
+B_Field=0.4
+
+Delta_=0.4
+MU=0
+Onsite_E=0.6
+
+U_neg=0.0
